@@ -1,0 +1,3 @@
+pip install twitchio
+pip install pytz
+pip install azure-cognitiveservices-speech
